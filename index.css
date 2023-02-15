@@ -1,0 +1,41 @@
+#grad1
+{
+    height: 37px;
+    width: 39px;
+    background-color: #4E7685;
+    border-left-style: 20px;
+    border-left: 5px solid #083048;
+    border-top: 5px solid #083048;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+#cname
+{
+    margin-top: -21%;
+    margin-left: 4rem;
+    width: 18rem;
+    font-size: 2rem;
+}
+#grad2
+{
+    height: 231px;
+    width: 182px;
+    background-color: #497375;
+    margin-left: 39rem;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+#wr
+{
+    font-size: 31px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    padding-top: 2rem;
+    line-height: 3rem;
+}
+#mainimg
+{
+    width: -webkit-fill-available;
+    margin-top: -7rem;
+}
